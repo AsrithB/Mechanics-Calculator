@@ -1,3 +1,5 @@
+//Mechanics Calculator
+//Made by: Asrith Biradavolu and Shawn Thapa. 2nd/6th AP Physics C.
 import java.util.Scanner;
 import static java.lang.Math.*;
 public class MechanicsCalculator {
